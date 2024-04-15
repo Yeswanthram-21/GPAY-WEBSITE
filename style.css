@@ -1,0 +1,119 @@
+.logo{
+    padding-left: 50px;
+    float:left;
+    margin:4px;
+}
+.right{
+    float: right;
+}
+.right a{
+    color: blue;
+}
+*{
+    margin:0;
+    padding:0;
+}
+.top{
+    font-size: 20px;
+    float:right;
+    overflow: hidden;
+    padding:35px;
+   
+}
+.top a{
+    padding-right: 10px;
+    color:#1a73e8;
+    text-decoration: none;
+}
+.top a:hover{
+    color:#c68af9;
+}
+
+.top a.end{
+    background-color:#1a73e8;
+    color: white;
+    padding:10px;
+    
+}
+.top a.end:hover{
+    background-color: #0000cd;
+    color: white;
+}
+.texts{
+    text-align: center;
+    font-family: Google Sans Display,Roboto,Arial,Helvetica,sans-serif;
+}
+.texts h1{
+    font-family: Google Sans Display,Roboto,Arial,Helvetica,sans-serif;
+    color: black;
+}
+.texts p{
+    color:#5f6368;
+}
+.slide{
+    text-align:center;
+    background-color: #f8f8f8;
+}
+.slide h1{
+    padding-top:40px;
+    font-family:Roboto,Helvetica,Arial,sans-serif;
+    font-size: 22px;
+    color: black;
+}
+.texts p.sm{
+    font-size: 15px;
+    color:#5f6368;
+}
+.bank{
+    text-align: center;
+    padding: 10px;
+}
+.bup{
+    text-align: center;
+}
+.bup a{
+    text-decoration: none;
+}
+.bell{
+    text-align: center;
+}
+.bell h1{
+    font-family:Roboto,Helvetica,Arial,sans-serif;
+    font-size: 28px;
+    color: black;
+}
+.com{
+    padding-top: 40px;
+    text-align: center;
+    background-color: #f8f8f8;
+}
+.app{
+    padding-bottom: 40px;
+}
+.above img{
+    float: left;
+    padding-left: 100px;
+}
+.bar a{
+    text-decoration: none;
+    color: #888b8d;
+}
+.bar a:hover{
+    color:#1a73e8;
+}
+.bar{
+   float: right;
+   padding-top: 100px;
+   padding-bottom: 50px;
+   padding-right:300px;
+}
+.bar ul{
+    column-count: 3;
+    column-gap: 100px;
+}
+.bar p{
+    text-align: center;
+    color:#5f6368;
+}
+
+
